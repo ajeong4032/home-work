@@ -2,6 +2,7 @@
 
 <!-- 자료 참조 https://www.markdownguide.org/getting-started/ -->
 <!-- 자료 참조 https://www.heropy.dev/p/B74sNE -->
+<!-- 자료 참조 https://blog.naver.com/jenny1257/223761145642 -->
 
 ## **2025.02.15. 전아정 마크다운 문법 과제**
 
