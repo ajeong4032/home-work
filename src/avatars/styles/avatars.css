@@ -1,0 +1,67 @@
+/* 여기에 스타일을 구현해 주세요 */
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  background-color: #fff;
+}
+
+table,
+tr,
+td {
+  margin: 0;
+  padding: 0;
+  border-collapse: collapse;
+  border: 0;
+}
+
+.box {
+  border: 1px solid #000;
+  /* 상자 안쪽 여백 100px */
+  padding: 100px;
+}
+
+.face-list {
+  margin-inline: auto;
+}
+
+.profile-frame > .face-state {
+  display: inline-block;
+  position: relative;
+  /* 프로필사진 사이간격 20px이어서 한 사진 padding 10px */
+  padding: 10px;
+  width: 64px;
+  height: 64px;
+}
+
+.round-profile {
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+}
+
+.on {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 17.78px;
+  height: 17.78px;
+  border: 1px solid #fff;
+  border-radius: 100%;
+  background-color: #4bfe88;
+}
+
+.off {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 17.78px;
+  height: 17.78px;
+  border: 1px solid #fff;
+  border-radius: 100%;
+  background-color: #dbdbdb;
+}
